@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViewPager Project</string>
+    <string name="sign_in_prompt_google">Welcome! Please sign in with Google.</string>
+    <string name="sign_in_prompt_facebook">Welcome! Please sign in with Facebook.</string>
+    <string name="sign_in_prompt_twitter">Welcome! Please sign in with Twitter.</string>
+    <string name="google">Google</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="sign_in_prompt">Welcome! Please enter your Cintas login credentials below.</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_entered">You have entered the following login information:</string>
+    <string name="username_entered">Username:</string>
+    <string name="password_entered">Password:</string>
+
+</resources>
